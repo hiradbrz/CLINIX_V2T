@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+gradio
+requests
+sqlite3
+openai
